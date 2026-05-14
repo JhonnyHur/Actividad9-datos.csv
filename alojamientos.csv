@@ -1,0 +1,16 @@
+id,nombre,estrellas,precio_noche,tipo,pet_friendly
+501,Hotel Intercontinental,5,450000,Hotel,true
+502,Hostal Backpackers,3,85000,Hostal,false
+503,Hotel Pacific Blue,4,320000,Hotel,true
+504,Hostal Central,2,60000,Hostal,false
+505,Hotel Boutique Lux,5,520000,Hotel,true
+506,Hostal Viajero,3,95000,Hostal,true
+507,Hotel Sunset,4,280000,Hotel,false
+508,Hotel Colonial,4,310000,Hotel,true
+509,Hostal Arena,2,70000,Hostal,false
+510,Hotel Green Park,5,480000,Hotel,true
+511,Hostal Natura,3,90000,Hostal,true
+512,Hotel Imperial,5,550000,Hotel,false
+513,Hotel Mirador,4,260000,Hotel,true
+514,Hostal Costa Azul,2,65000,Hostal,false
+515,Hotel SkyLine,5,600000,Hotel,true

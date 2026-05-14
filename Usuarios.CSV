@@ -1,0 +1,21 @@
+id,nombre,nacionalidad,presupuesto_lvl,intereses,nivel_experto
+1,Carlos Ruiz,Colombiano,3,"Aventura|Arte|Naturaleza",8
+2,Ana Torres,Mexicana,2,"Gastronomia|Relax",5
+3,Luis Mendoza,Peruano,4,"Historia|Arte|Cultura",9
+4,Sofia Ramirez,Argentina,1,"Relax|Playa",3
+5,Daniel Castro,Colombiano,2,"Aventura|Deportes",6
+6,Valentina Rios,Chilena,3,"Gastronomia|Arte",7
+7,Mateo Herrera,Ecuatoriano,4,"Naturaleza|Fotografia",8
+8,Laura Jimenez,Española,2,"Historia|Museos",5
+9,Andres Salazar,Colombiano,1,"Playa|Relax",2
+10,Camila Ortega,Mexicana,3,"Cultura|Arte|Gastronomia",7
+11,Nicolas Vega,Uruguayo,4,"Aventura|Naturaleza",9
+12,Paula Medina,Colombiana,2,"Fotografia|Arte",6
+13,Sebastian Mora,Peruano,3,"Historia|Cultura",7
+14,Mariana Paredes,Venezolana,1,"Relax|Gastronomia",4
+15,Juan Esteban Lopez,Colombiano,4,"Aventura|Deportes|Naturaleza",10
+16,Isabella Cruz,Argentina,2,"Arte|Museos",5
+17,Felipe Navarro,Chileno,3,"Historia|Fotografia",6
+18,Daniela Suarez,Ecuatoriana,1,"Playa|Relax|Naturaleza",3
+19,Alejandro Gil,Mexicano,4,"Gastronomia|Cultura",8
+20,Lucia Fernandez,Española,2,"Arte|Historia|Museos",6

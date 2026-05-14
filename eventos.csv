@@ -1,0 +1,16 @@
+id,nombre,fecha_inicio,fecha_fin,tipo,tematica,sold_out
+201,Festival Petronio,2026-08-10,2026-08-15,festival,Musica,false
+202,Feria de Cali,2026-12-25,2026-12-30,feria,Cultura,true
+203,Carnaval del Caribe,2026-02-15,2026-02-20,festival,Cultura,false
+204,Festival Gastronomico,2026-06-05,2026-06-07,feria,Gastronomia,false
+205,Expo Turismo,2026-09-12,2026-09-15,feria,Turismo,true
+206,Festival de Jazz,2026-07-01,2026-07-03,festival,Musica,false
+207,Feria Artesanal,2026-05-20,2026-05-22,feria,Arte,false
+208,Festival Cultural Andino,2026-10-10,2026-10-14,festival,Cultura,true
+209,Encuentro Fotografico,2026-11-01,2026-11-04,feria,Fotografia,false
+210,Festival de Playa,2026-01-15,2026-01-18,festival,Relax,false
+211,Concierto Tropical,2026-03-12,2026-03-12,festival,Musica,true
+212,Festival del Cafe,2026-04-08,2026-04-10,feria,Gastronomia,false
+213,Expo Arte Urbano,2026-08-22,2026-08-24,feria,Arte,false
+214,Festival Ecologico,2026-09-01,2026-09-05,festival,Naturaleza,false
+215,Feria Deportiva,2026-06-18,2026-06-20,feria,Deportes,true

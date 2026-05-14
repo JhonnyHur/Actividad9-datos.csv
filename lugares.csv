@@ -1,0 +1,21 @@
+id,nombre,tipo,calificacion_avg,popularidad_actual
+101,Museo La Tertulia,museo,4.7,920
+102,Parque del Perro,parque,4.5,1200
+103,Castillo San Felipe,museo,4.8,2100
+104,Playa Blanca,entre_otros,4.6,2500
+105,Cerro de Monserrate,parque,4.9,3100
+106,Jardin Botanico,parque,4.4,890
+107,Museo del Oro,museo,4.9,2700
+108,Parque Tayrona,parque,4.8,3400
+109,Restaurante Pacifico,restaurante,4.3,650
+110,Teatro Colon,entre_otros,4.7,980
+111,Plaza Botero,parque,4.5,1500
+112,Museo de Antioquia,museo,4.6,1700
+113,Cafe del Mar,restaurante,4.4,1400
+114,Lago Calima,entre_otros,4.5,1100
+115,Parque Arvi,parque,4.7,1600
+116,Malecón del Rio,parque,4.3,1300
+117,Mirador de Chipre,entre_otros,4.4,700
+118,Museo Naval,museo,4.2,850
+119,Parque Nacional,parque,4.6,1900
+120,Restaurante Andino,restaurante,4.5,780
