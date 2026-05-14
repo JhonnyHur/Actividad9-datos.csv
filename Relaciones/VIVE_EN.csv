@@ -1,0 +1,21 @@
+idUsuario,idCiudad,barrio_residencia,tiempo_viviendo
+1,1,El Ingenio,5
+2,2,Laureles,3
+3,3,Chapinero,7
+4,4,Bocagrande,2
+5,1,Granada,6
+6,5,Rodadero,4
+7,2,El Poblado,8
+8,3,Usaquen,5
+9,4,Manga,3
+10,1,Ciudad Jardin,6
+11,2,Belen,9
+12,3,Teusaquillo,4
+13,5,Centro,5
+14,6,Alto Prado,3
+15,1,San Fernando,10
+16,7,Centro,4
+17,8,Chipre,5
+18,9,Cuba,2
+19,10,Cabecera,7
+20,3,Suba,6

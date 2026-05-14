@@ -1,0 +1,21 @@
+idUsuario,idLugar,canal,codigo_descuento
+1,101,Instagram,TRAVEL10
+2,109,WhatsApp,FOOD5
+3,107,Boca a boca,HISTORY20
+4,104,Instagram,RELAX15
+5,108,WhatsApp,AVENTURA25
+6,109,Instagram,GOURMET8
+7,115,Boca a boca,NATURE30
+8,107,WhatsApp,MUSEUM12
+9,104,Instagram,PLAYA7
+10,103,Boca a boca,CULTURA10
+11,108,Instagram,ECO15
+12,101,WhatsApp,ART5
+13,110,Boca a boca,SHOW20
+14,113,Instagram,CAFE10
+15,114,WhatsApp,LAGO25
+16,112,Boca a boca,ARTE15
+17,117,Instagram,MIRADOR8
+18,108,WhatsApp,TRIP30
+19,120,Boca a boca,ANDES20
+20,103,Instagram,CASTILLO5
